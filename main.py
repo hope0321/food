@@ -9,4 +9,4 @@ for i in menu:
 print("이 중에서 엄청난 알고리즘으로 당신의 머리속을 분석하여 제가 추천하는 메뉴는?")
 print("두구 두구 두구 두구")
 a = random.randint(0,4)
-print("{} 입니다.".format(menu[a]))
+print("{} 입니다.".format(menu[a]))  
